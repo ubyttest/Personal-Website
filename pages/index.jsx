@@ -16,7 +16,7 @@ export default function Home() {
               <div className="flex flex-col lg:justify-start justify-center items-center lg:items-start mt-5 lg:mt-0 w-full">
                 <div className="flex items-center">
                 <p className="flex items-center text-white text-4xl font-semibold">
-                  Umut Bayraktar
+                  Test Name
                 </p>
                   <Tippy content={`Online`} animation="shift-away" arrow={false}>
                     <span className={`ml-2 text-online px-2 py-1 font-normal rounded-md text-sm`}>
